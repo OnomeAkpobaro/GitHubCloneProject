@@ -1,1 +1,2 @@
-This is the description  of my repo
+Practice creating branches, merging branches, and resolving conflicts.
+Modification in main branch.
