@@ -1,3 +1,2 @@
-#Practice creating branches, merging branches, and resolving conflicts.
-#Modification in main branch.
-
+"Objective: Branch, Merge, Resolving conflicts." 
+"Modification in main branch." 
